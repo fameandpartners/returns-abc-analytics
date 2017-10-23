@@ -128,3 +128,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.container {
+  padding: 30px 0;
+}
+</style>
